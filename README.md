@@ -7,3 +7,6 @@ Introduction to Visualization Technologies in Common Use
 3. `source .venv/bin/activate` : Activates that virtual environment 
 4. `pip install -r notebooks/requirements.txt` : Installs the libraries necessary to run these notebooks. From the root of this repository it is in the `notebooks/` subdirectory. 
 5. `jupyter lab` : Will start your jupyter lab environment and let you see the notebooks.
+
+## My changes
+Repository was forked by Saiteja Labba
